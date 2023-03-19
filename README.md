@@ -6,7 +6,17 @@ Theme:
 
 Organised at Satyukt Analytics' office on 19th March from 10 AM to 1 PM.
 
-Agenda
+Agenda:
+
+10:00 - 10:15 - Introduction to the event and Satyukt Analytics.
+
+10:15 - 11:15 - Ujaval Gandhi, Automating Geospatial Analysis using QGIS
+
+11:15 - 11:30 - Introduction of audience
+
+11:30 - 12:30 - Raj Bhagat Palanichamy, Data Driven Decision Making
+
+12:30 Onwards - Tea/Coffee + Networking.
 
 ---
 
